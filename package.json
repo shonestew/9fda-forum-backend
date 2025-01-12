@@ -1,0 +1,17 @@
+{
+  "name": "9fda-forum-backend",
+  "version": "1.0.0",
+  "description": "backend for forum 9fda",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "shonestew",
+  "license": "MIT",
+  "dependencies": {
+    "@fastify/cors": "^10.0.1",
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.0",
+    "mongoose": "^8.9.2"
+  }
+}
